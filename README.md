@@ -1,2 +1,2 @@
 # Sorting-Visualizer
-Deployed Link :  https://sortingvisualiser-rishabh.netlify.app/
+Deployed Link :  https://shalu7400.github.io/Sorting-Visualizer/
